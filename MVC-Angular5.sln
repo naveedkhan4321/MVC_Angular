@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC5-Angular5", "MVC5-Angular5\MVC5-Angular5.csproj", "{3249163E-5A0A-4012-8B44-36E769E9FE62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{D468D5D3-44AD-4637-8729-0B3153C5E62C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3249163E-5A0A-4012-8B44-36E769E9FE62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3249163E-5A0A-4012-8B44-36E769E9FE62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3249163E-5A0A-4012-8B44-36E769E9FE62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3249163E-5A0A-4012-8B44-36E769E9FE62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D468D5D3-44AD-4637-8729-0B3153C5E62C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D468D5D3-44AD-4637-8729-0B3153C5E62C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D468D5D3-44AD-4637-8729-0B3153C5E62C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D468D5D3-44AD-4637-8729-0B3153C5E62C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {699B1DD2-D36B-4975-9271-ACFFE20A7117}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://naveedkhan4321.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MVC5-Angular5\\MVC5-Angular5.csproj
+		SccProjectName1 = MVC5-Angular5
+		SccLocalPath1 = MVC5-Angular5
+		SccProjectUniqueName2 = WebApi\\WebApi.csproj
+		SccProjectName2 = WebApi
+		SccLocalPath2 = WebApi
+	EndGlobalSection
+EndGlobal
